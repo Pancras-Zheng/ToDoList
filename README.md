@@ -1,5 +1,5 @@
 # TodoList
-## Preview effect
+## Preview 
 https://pancras-zheng.github.io/TodoList_page/
 ## Project setup
 ```
