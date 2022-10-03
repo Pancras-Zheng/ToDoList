@@ -2,6 +2,7 @@
 ![CI](https://github.com/Hitotsubashi/cicd-study/actions/workflows/ci.yml/badge.svg)  ![CD](https://github.com/Hitotsubashi/cicd-study/actions/workflows/cd.yml/badge.svg)
 ## Preview 
 https://pancras-zheng.github.io/TodoList_page/
+
 ## Project setup
 ```
 npm install
