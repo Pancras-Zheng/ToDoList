@@ -22,6 +22,6 @@ npm run build
 ```
 npm run lint
 ```
-CICD test
+CICD 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
